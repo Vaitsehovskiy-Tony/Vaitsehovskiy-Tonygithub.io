@@ -1,9 +1,9 @@
 # vaitsehovskiy-tony.github.io
 ____
 
-## vaitsehovskiy-tony.github.io
+[Проект:](vaitsehovskiy-tony.github.io)
 
-## v0.0.5
+## v0.0.6
 
 
 
