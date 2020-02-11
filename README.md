@@ -3,7 +3,8 @@ ____
 
 ## vaitsehovskiy-tony.github.io
 
-## v0.0.4
+## v0.0.5
+
 
 ## Практическая работа по использованию RegExp
 
